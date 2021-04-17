@@ -1,5 +1,7 @@
 # SpringBootStudy
 ## 스프링 부트 기초 사용법 스터디
+### 진행자 : 김윤권, 장현석
+
 
 ## * 개요
 - 기본적인 스프링 부트의 개념과 사용법을 익히기 위한 스터디 프로젝트로 기본적인 설정방법과 실무에서 자주쓰이거나 필요한 기술들을 스프링 부트를 사용해 편리하게 개발을 할 수 있도록 돕기위한 목적을 가진다.
@@ -45,12 +47,12 @@
     - Github
         url : https://github.com/vusdlq007/SpringBootStudy/
     - jenkins
-        url:
+        url: (작성예정)
         계정: id/pwd
     - AWS RDS(mariaDB)
-        ip/port:
-        schema:
-    - swagger : 
+        ip/port: (작성예정)
+        schema: (작성예정)
+    - swagger : (작성예정)
     - AWS
         계정: id/pwd
 
@@ -97,9 +99,9 @@
 
     2. Spring Security란? & Spring Security를 적용한 권한 설정.
 
-    3. 코드리뷰.
+    3. 미정.
 
-    4. 미정.
+    4. 코드리뷰.
 ------------
 
 ### [2021-05-15 (토), 5주차 스터디 주제]
