@@ -55,7 +55,7 @@
     - swagger : (작성예정)
     - AWS
         계정: id/pwd
-
+    - webserver : nginx
 
 ## *스터디 시작전 회의내용 (2021-04-23, 금)
 
