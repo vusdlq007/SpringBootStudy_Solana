@@ -50,8 +50,10 @@
         url: (작성예정)
         계정: id/pwd
     - AWS RDS(mariaDB)
-        ip/port: (작성예정)
-        schema: (작성예정)
+        url/port:  / 3306
+        schema: mariadb-spring    
+        table : spring_boot_toy
+        id/pwd : admin / admin123!
     - swagger : (작성예정)
     - AWS
         계정
