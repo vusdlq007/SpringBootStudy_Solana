@@ -50,7 +50,7 @@
         url: (작성예정)
         계정: id/pwd
     - AWS RDS(mariaDB)
-        url/port:  / 3306
+        dns/port: mariadb-spring.cisfbqyulfaf.ap-northeast-2.rds.amazonaws.com / 3306
         schema: mariadb-spring    
         table : spring_boot_toy
         id/pwd : admin / admin123!
