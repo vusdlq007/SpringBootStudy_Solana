@@ -68,6 +68,7 @@
 
 ### *아키텍처
    ![KakaoTalk_Photo_2021-05-01-14-33-19](https://user-images.githubusercontent.com/22536587/116772680-b479f680-aa8b-11eb-831f-1632a292dc25.jpeg)
+   <img src="https://user-images.githubusercontent.com/22536587/116772680-b479f680-aa8b-11eb-831f-1632a292dc25.jpeg"  width="700" height="370">
 
 ------------
 
