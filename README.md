@@ -54,8 +54,12 @@
         schema: (작성예정)
     - swagger : (작성예정)
     - AWS
-        계정: id/pwd
-    - webserver : nginx
+        계정
+        IP/DNS : 13.124.43.19/ec2-13-124-43-19.ap-northeast-2.compute.amazonaws.com
+        ID : ubuntu
+        Keypair : ubuntu_EC2_keypair.pem (첨부파일)
+    - webserver(nginx)
+        URL : 
 
 ## *스터디 시작전 회의내용 (2021-04-23, 금)
 
