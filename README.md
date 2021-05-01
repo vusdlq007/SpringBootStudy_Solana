@@ -67,8 +67,7 @@
     3. 정기회의는 매주 월요일(점심)에 진행한다.
 
 ### *아키텍처
-   ![image](https://user-images.githubusercontent.com/22536587/116772838-8e088b00-aa8c-11eb-90dc-db9163dc5d8c.png)
-   <img src="https://user-images.githubusercontent.com/22536587/116772838-8e088b00-aa8c-11eb-90dc-db9163dc5d8c.png"  width="700" height="370">
+   <img src="https://user-images.githubusercontent.com/22536587/116772838-8e088b00-aa8c-11eb-90dc-db9163dc5d8c.png"  width="700" height="450">
 
 ------------
 
