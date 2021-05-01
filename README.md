@@ -67,8 +67,8 @@
     3. 정기회의는 매주 월요일(점심)에 진행한다.
 
 ### *아키텍처
-   ![KakaoTalk_Photo_2021-05-01-14-33-19](https://user-images.githubusercontent.com/22536587/116772680-b479f680-aa8b-11eb-831f-1632a292dc25.jpeg)
-   <img src="https://user-images.githubusercontent.com/22536587/116772680-b479f680-aa8b-11eb-831f-1632a292dc25.jpeg"  width="700" height="370">
+   ![image](https://user-images.githubusercontent.com/22536587/116772838-8e088b00-aa8c-11eb-90dc-db9163dc5d8c.png)
+   <img src="https://user-images.githubusercontent.com/22536587/116772838-8e088b00-aa8c-11eb-90dc-db9163dc5d8c.png"  width="700" height="370">
 
 ------------
 
