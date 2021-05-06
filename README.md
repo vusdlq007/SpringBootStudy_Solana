@@ -54,7 +54,7 @@
         schema: mariadb-spring    
         table : spring_boot_toy
         id/pwd : admin / admin123!
-    - AWS
+    - AWS EC2(Ubuntu)
         계정
         IP/DNS : 13.124.43.19/ec2-13-124-43-19.ap-northeast-2.compute.amazonaws.com
         ID : ubuntu
