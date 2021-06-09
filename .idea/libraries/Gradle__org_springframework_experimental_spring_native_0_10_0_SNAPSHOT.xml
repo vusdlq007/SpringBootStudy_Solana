@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.experimental:spring-native:0.10.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.experimental/spring-native/0.10.0-SNAPSHOT/4315bfe4895be5940e1affba779e4b492858d7c8/spring-native-0.10.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.experimental/spring-native/0.10.0-SNAPSHOT/d9961e2a777bff5bf75fed001c2ed4b644ffa4a5/spring-native-0.10.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
