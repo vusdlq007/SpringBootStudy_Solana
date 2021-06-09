@@ -33,7 +33,7 @@ public class DateUtil {
     public double calElapsed(long startTime, long endTime) throws ParseException {
         double period = 0;
         period = ( endTime - startTime ) / 1000.0;
-        log.debug( "경과 시간 : " + period + "초" );
+//        log.debug( "경과 시간 : " + period + "초" );
 
         return period;
     }
